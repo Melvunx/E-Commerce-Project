@@ -10,9 +10,9 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
+      "@pages/*": ["./src/pages/*"],
       // "@components/*": ["./src/components/*"],
-      // "@layout/*": ["./src/components/layout/*"],
-      // "@pages/*": ["./src/pages/*"]
+      // "@layout/*": ["./src/components/layout/*"]
     },
 
     /* Bundler mode */
