@@ -14,4 +14,5 @@ database.connect((error) => {
   console.log("Connected to the database");
 });
 
+
 export default database;
